@@ -6,3 +6,5 @@
 
 - Data is stored in JSON (up to 30 files)
 
+- Made using TypeScript and React
+
